@@ -1,0 +1,1 @@
+export const waterMessage="Buenas tardes Sr. Roberto. Podria traerme {noGarrafones} garrafones Bonafont a Wisconsin 120 Dpto 403. Gracias Brenda Jimenez."
